@@ -1,5 +1,5 @@
 # Hi there, I'm Rizkyani Indah Lestari - a.k.a [rzkyndhlstr](https://www.linkedin.com/in/rizkyani-indah-lestari/) 👋
-## About me:
+## About me
 I have experience as a Data Entry and Admin for approximately 2 year with an ability to typing speed at 53–57 WPM and an accuracy of 80–90 percent. I am a detail-oriented person, well-organized and multitasking.
 
 I am seeking for work right now and am interested in administrative, data entry, and customer service position. However, it is possible to get opportunities in other positions. As a young generation, I have high enthusiasm and curiosity. I am responsible, honest, and willing to learn new skills and expand my knowledge and abilities. With the skills and experience that I have, I am ready to join and contribute to your company.
