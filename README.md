@@ -6,9 +6,9 @@ I am seeking for work right now and am interested in Administrative, Data Entry,
 
 I am also interested in working as a Frontend Developer. Therefore as a solution, in my spare time, I am learning Frontend with a computer language, which includes HTML, CSS, and Javascript.
 
-On this github, you can see the outcomes of an exercise I completed with Frontendmentor as a guide.
+On this github, you can see the outcomes of an exercise I completed with [Frontend Mentor](https://www.frontendmentor.io/home) as a guide.
 
-If you are interested in contacting me in regards to a position with your company, please email me at irizkyani@gmail.com , or feel free to connect with me on LinkedIn.
+If you are interested in contacting me in regards to a position with your company, please email me at irizkyani@gmail.com , or feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rizkyani-indah-lestari/).
 
 ## Work Experience
 #### 1. PT Bringin Karya Sejahtera   |   Data Entry   |   Palembang `May 2021 - Sep 2021`
