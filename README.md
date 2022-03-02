@@ -4,14 +4,15 @@ I have experience as a Data Entry and Admin for approximately 2 year with an abi
 
 I am seeking for work right now and am interested in Administrative, Data Entry, and Customer Service position. However, it is possible to get opportunities in other positions. As a young generation, I have high enthusiasm and curiosity. I am responsible, honest, and willing to learn new skills and expand my knowledge and abilities. With the skills and experience that I have, I am ready to join and contribute to your company.
 
-I am also interested in working as a Frontend Developer. Therefore as a solution, in my spare time, I am learning Frontend with a computer language, which includes HTML, CSS, and Javascript.
+I am also interested about Front-end Development. Therefore as a solution, in my spare time, I am learning Frontend with a computer language, which includes HTML, CSS, and Javascript.
 
 On this github, you can see the outcomes of an exercise I completed with [Frontend Mentor](https://www.frontendmentor.io/home) as a guide.
 
 If you are interested in contacting me in regards to a position with your company, please email me at irizkyani@gmail.com , or feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rizkyani-indah-lestari/).
 
 ## Work Experience
-#### 1. PT Bringin Karya Sejahtera   |   Data Entry   |   Palembang `May 2021 - Sep 2021`
+#### 1. PT Bringin Karya Sejahtera | Palembang `May 2021 - Sep 2021`
+#### Data Entry
 - Controlled the categorization of PT Bank Rakyat Indonesia Tbk customer credit documents for more than 5 clients each day based on priority and document duplication classification to make the entry process easier
 - Contributed to the company's functioning by inputting more than 50 documents and obtaining results in accordance with the company's
 guidelines
@@ -20,21 +21,26 @@ requirements
 - Increased company performance by consolidating data entry results and scanning documents of more than 5 clients each day and
 entering them into detailed reports for superiors to review 
 
-#### 2. Toko Alat Tulis Afifah | Administrative | Palembang `Oct 2019 - Apr 2020`
+#### 2. Toko Alat Tulis Afifah | Palembang `Oct 2019 - Apr 2020`
+#### Administrative
 - Organized and managed daily operational transactions in compliance with predefined policies
 - Maintained a record of the amount of stationery stock available for sale to customers
 - Organized the storage area for stationery products into various categories and create a beautiful and well-organized view
 - Delivered the best possible service to more than 20 clients, both online and offline each day to ensure customer satisfaction with the services provided 
 
 ## Freelance Experience
-#### Warung Herry | Assistant Owner | Palembang `Jan 2012 - Mar 2019`
+#### Warung Herry | Palembang `Jan 2012 - Mar 2019`
+#### Assistant Owner
+- Assisted in the preparation of food and equipment for sale in the restaurant, as well as increased sales by cooking multiple dishes at once
+- Checked available stock and ingredients for operational needs, as well as purchased supplies for the product to support operational demands
 - Responsible for daily operational transactions and cash flow with a turnover of IDR 150,000 per day
-- Organized the storage area for more than 15 products to create good visuals and well-organized view
+- Organized the storage area for more than 15 products to produce a good and well-organized view
 - Provided services to more than 10 customers in store each day to ensure customer satisfaction
-- Ensure the cleanliness and tidiness of the dining area, kitchen and store to improve customer satisfaction and comfort 
-
+- Ensured the cleanliness of the dining area, kitchen and store to improve customer satisfaction and comfort 
+ 
 ## Volunteer 
-#### Indorelawan | Non-Medical Volunteer of Grab Indonesia x Indorelawan | Palembang `Jan 2022`
+#### Indorelawan | Palembang `Jan 2022`
+#### Non-Medical Volunteer of Grab Indonesia x Indorelawan
 - Educated and gave information to more than 3000 vaccine participants in 3 days on the online and offline vaccination registration processes
 - Arranged seats for vaccine participants in the vaccination flow process and checked the needs of medical staff needed in the vaccination process
 - Directed participants who have been vaccinated to go to the observation area to see the symptoms that occur after being vaccinated
