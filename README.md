@@ -72,7 +72,7 @@ entering them into detailed reports for superiors to review
 [<img align="left" alt="Spreadsheet" width="50px" src="https://play-lh.googleusercontent.com/keE2gN0Hqh8-Tsf_RYZ_-yS2uo6ToqYVyRBv_UZaLXsgeeHBd2YPcEUWEF4DEtfGyb1h=s360-rw" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="HTML" width="50px" src="https://clipground.com/images/html5-logo-2.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CSS" width="50px" src="https://www.logolynx.com/images/logolynx/8f/8fb97dec724d750d2085173816712ffc.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Javascript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" style="padding-right:10px;" />][webdev]
+<!-- [<img align="left" alt="Javascript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" style="padding-right:10px;" />][webdev] -->
 
 <br />
 <br />
