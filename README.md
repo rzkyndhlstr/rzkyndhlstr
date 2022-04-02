@@ -11,9 +11,7 @@ On this github, you can see the outcomes of an exercise I completed with [Fronte
 If you are interested in contacting me in regards to a position with your company, please email me at irizkyani@gmail.com , or feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rizkyani-indah-lestari/).
 
 ## Work Experience
-#### 1. PT Bringin Karya Sejahtera | Palembang, Indonesia
-#### Data Entry | PT Bank Rakyat Indonesia Tbk (KCP Tugu Mulyo) | `Jun 2021 - Sep 2021`
-#### Data Entry | PT Bank Rakyat Indonesia Tbk KC A. Rivai Palembang | `May 2021`
+#### 1. PT Bank Rakyat Indonesia (Persero) Tbk | Palembang, Indonesia `May 2021 - Sep 2021`
 - Controlled the categorization of PT Bank Rakyat Indonesia Tbk customer credit documents for more than 5 clients each day based on priority and document duplication classification to make the entry process easier
 - Contributed to the company's functioning by inputting more than 50 documents and obtaining results in accordance with the company's
 guidelines
